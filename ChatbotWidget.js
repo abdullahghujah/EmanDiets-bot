@@ -8,9 +8,6 @@
           versionID: 'production',
           voice: {
             url: "https://runtime-api.voiceflow.com"
-          },
-          assistant: {
-            stylesheet: "https://github.com/abdullahghujah/EmanDiets-bot/blob/main/style.css"
           }
         });
       }
