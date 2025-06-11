@@ -1,9 +1,7 @@
 .vfrc-user-response {
-color: blue;
-text-align: right;
+flex-direction: row-reverse;
 }
 
 .vfrc-system-response .vfrc-message {
-color: green;
-text-align: left;
+flex-direction: row-reverse;
 }
