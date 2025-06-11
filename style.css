@@ -1,0 +1,8 @@
+.vfrc-user-response .vfrc-message {
+color: blue;
+text-align: right;
+}
+
+.vfrc-system-response .vfrc-message {
+text-align: left;
+}
